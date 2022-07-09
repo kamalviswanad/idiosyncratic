@@ -12,8 +12,9 @@ This code can generate not millions or billions, but <bold>TRILLIONS</bold> of I
 First download the code file from this repository. <br>
 Now include the file in your project. <br>
 Finally call the function:
-     Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).
-
+     Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).  <br>
+Rememer the arguments are necessary. If you dont want them, just give them an empty string.
+ 
                                            TADA !!!! You just generated a Idiosyncratic ID.
 
 
