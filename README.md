@@ -9,7 +9,7 @@ It means **unique**. <br>
 This code can generate not millions or billions, but **TRILLIONS** of IDs. <br> <br>
 
                                                              Why is it so unique 
-Because we use time and alpha-numeric characters to create IDs. Using time to create IDs can make them **very very Idiosyncratic**. <br><br>
+Because we use **time** and **alpha-numeric characters** to create IDs. Using time to create IDs can make them **very very Idiosyncratic**. <br><br>
 
 
                                                              
