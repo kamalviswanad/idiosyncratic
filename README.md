@@ -9,11 +9,11 @@ It means **unique**. <br>
 This code can generate not millions or billions, but **TRILLIONS** of IDs. <br>
 
                                                              How to use it
-First download the code file from this repository. <br>
-Now include the file in your project. <br>
-Finally call the function:
+First, download the code file from this repository. <br><br>
+Now, include the file in your project. <br><br>
+Finally, call the function:
      Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).  <br> <br>
-Rememer the arguments are necessary. If you dont want them, just give them an empty string. <br>
+Rememer the arguments are necessary. If you dont want them, just give them an empty string. <br><br>
                                                 **TADA !!!! You just generated a Idiosyncratic ID.**
 
 
