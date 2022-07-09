@@ -8,13 +8,12 @@ You know what Idiosyncratic means. <br>
 It means unique. <br>
 This code can generate not millions or billions, but <bold>TRILLIONS</bold> of IDs. <br>
 
-**How to use it** <br>
+                                                             How to use it
 First download the code file from this repository. <br>
 Now include the file in your project. <br>
 Finally call the function:
      Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).  <br>
 Rememer the arguments are necessary. If you dont want them, just give them an empty string.
- 
-                                           TADA !!!! You just generated a Idiosyncratic ID.
+                                                **TADA !!!! You just generated a Idiosyncratic ID.**
 
 
