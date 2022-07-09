@@ -14,7 +14,7 @@ Because we use **time** and **alpha-numeric characters** to create IDs. Using ti
 
                                                              
                                                              How to use it
-First, download the code file from this repository. <br><br>
+First, download the source code file from this repository. <br><br>
 Now, include the file in your project. <br><br>
 Finally, call the function:
      Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).  <br> <br>
