@@ -13,7 +13,7 @@ Because we use **time** and **alpha-numeric characters** to create IDs. Using ti
 
 
                                                              
-                                                How to use it
+                                                 How to use it
 First, download the source code file from this repository. <br><br>
 Now, include the file in your project. <br><br>
 Finally, call the function:
