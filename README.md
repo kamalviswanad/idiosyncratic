@@ -1,5 +1,5 @@
 # Idiosyncratic
-Hello Pals!! <br>
+**Hello Pals!!** <br>
 Do you want to generate **Unique User IDs** for your users? <br>
 Then you are in the right place. <br>
 This code can give your website user a distinct ID. <br>
