@@ -8,12 +8,12 @@ You know what **Idiosyncratic** means. <br>
 It means **unique**. <br>
 This code can generate not millions or billions, but **TRILLIONS** of Unique IDs. <br> <br>
 
-                                                             Why is it so unique 
+                                                Why is it so unique 
 Because we use **time** and **alpha-numeric characters** to create IDs. Using time to create IDs can make them **very very Idiosyncratic**. <br><br>
 
 
                                                              
-                                                             How to use it
+                                                How to use it
 First, download the source code file from this repository. <br><br>
 Now, include the file in your project. <br><br>
 Finally, call the function:
