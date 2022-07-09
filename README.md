@@ -19,6 +19,9 @@ Now, include the file in your project. <br><br>
 Finally, call the function:
      Idiosyncratic( //Type your Company/Website name, //Use a separator(to separate name and ID) ).  <br> <br>
 Rememer the arguments are necessary. If you dont want them, just give them an empty string. <br><br>
+                                                 
+                                                 
+                                                Example: **Idiosyncratic_2234709N905032nue5UQFC794c** <br><br>
                                                 **TADA !!!! You just generated an Idiosyncratic ID.**
 
 
