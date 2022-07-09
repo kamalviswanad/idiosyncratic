@@ -22,8 +22,8 @@ Rememer the arguments are necessary. If you dont want them, just give them an em
                                                  
   Example ID: **Idiosyncratic_2234709N905032nue5UQFC794c** <br><br>
                                                 **TADA !!!! You just generated an Idiosyncratic ID.**
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 That's all for now. <br>
 
 **Hope you generate amazing Unique IDs** <br><br>
-**Thank You**
+**--Thank You**
