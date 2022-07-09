@@ -7,6 +7,11 @@ This code can give your website user a distinct ID. <br>
 You know what **Idiosyncratic** means. <br>
 It means **unique**. <br>
 This code can generate not millions or billions, but **TRILLIONS** of IDs. <br> <br>
+
+                                                             Why is it so unique 
+Because we use time to create IDs. Using time to create IDs can make them **very very Idiosyncratic**.
+
+
                                                              
                                                              How to use it
 First, download the code file from this repository. <br><br>
