@@ -1,9 +1,9 @@
 {
-    "name": "KamalViswanad/Idiosyncratic",
+    "name": "kamalviswanad/idiosyncratic",
     "description": "A package that can generate TRILLIONS of Unique IDs for your users..",
     "autoload": {
         "psr-4": {
-            "KamalViswanad\\Idiosyncratic\\": "src/"
+            "kamalviswanad\\idiosyncratic\\": "src/"
         }
     },
     "minimum-stability": "dev",
